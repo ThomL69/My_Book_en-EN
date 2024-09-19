@@ -1,7 +1,7 @@
 # Thomas Lieghio's Book
 
-* [English](README.en.md)
-* [French](README.fr.md)
+* [English](README.md)
+* [French]([README.md](https://github.com/ThomL69/My_Book/blob/main/README.md))
 
 Go to the Wiki tab to view my portfolio of different projects.
 
